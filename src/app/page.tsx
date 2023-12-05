@@ -1,5 +1,5 @@
 import React from "react";
-import News from "../news";
+import News from "./news";
 
 const Home = () => {
   return <News />;
